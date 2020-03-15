@@ -3,5 +3,5 @@ def hello
 end
 
 puts "テスト2"
-
+puts "テスト3"
 hello
